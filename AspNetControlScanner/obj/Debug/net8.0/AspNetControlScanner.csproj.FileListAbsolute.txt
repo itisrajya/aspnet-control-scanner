@@ -1,0 +1,15 @@
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\bin\Debug\net8.0\AspNetControlScanner.exe
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\bin\Debug\net8.0\AspNetControlScanner.deps.json
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\bin\Debug\net8.0\AspNetControlScanner.runtimeconfig.json
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\bin\Debug\net8.0\AspNetControlScanner.dll
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\bin\Debug\net8.0\AspNetControlScanner.pdb
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\AspNetControlScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\AspNetControlScanner.AssemblyInfoInputs.cache
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\AspNetControlScanner.AssemblyInfo.cs
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\AspNetControlScanner.csproj.CoreCompileInputs.cache
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\AspNetControlScanner.sourcelink.json
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\AspNetControlScanner.dll
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\refint\AspNetControlScanner.dll
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\AspNetControlScanner.pdb
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\AspNetControlScanner.genruntimeconfig.cache
+C:\Users\rajya_vardhan\source\repos\aspnet-control-scanner\AspNetControlScanner\obj\Debug\net8.0\ref\AspNetControlScanner.dll
